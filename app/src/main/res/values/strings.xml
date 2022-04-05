@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Checkbox_04</string>
+    <string name="Cursiva" />
+    <string name="cursiva">cursiva</string>
+    <string name="negrita">negritas</string>
+    <string name="texto">Dame un texto</string>
+    <string name="checkbox_04">Checkbox_04</string>
+</resources>
